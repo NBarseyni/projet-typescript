@@ -1,0 +1,30 @@
+{
+  "name": "projet-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBarseyni/projet-typescript.git"
+  },
+  "keywords": [],
+  "author": "Barseyni Nicolas <nicolas.barseyni@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBarseyni/projet-typescript/issues"
+  },
+  "homepage": "https://github.com/NBarseyni/projet-typescript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "@types/node": "^13.9.5",
+    "jest": "^25.2.4",
+    "ts-jest": "^25.3.0",
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
+  }
+}
